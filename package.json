@@ -1,0 +1,17 @@
+{
+  "author": "Dmitry Chleck <dmitrychleck@gmail.com>",
+  "name": "vchains-examples",
+  "description": "Examples for vchains",
+  "version": "0.0.1",
+  "homepage": "https://github.com/chleck/vchains-examples",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chleck/vchains-examples.git"
+  },
+  "dependencies": { "vchains": ">=0.0.3" },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
