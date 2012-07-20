@@ -1,4 +1,4 @@
-vchains-examples
-================
+# Examples for vchains library
 
-Examples for vchains
+You can get vchains [here](https://github.com/chleck/vchains "vchains on github") or use
+`npm install vchains`
